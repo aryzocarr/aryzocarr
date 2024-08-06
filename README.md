@@ -1,6 +1,6 @@
 # aryzocarr <img src="https://media.tenor.com/YEwxWExn80kAAAAi/cat-cute.gif" width="30px">
 
-Eu sou <strong>Aryana</strong>, <strong>sou extrovertida e simpática</strong> 👨🏻‍💻 
+Eu sou <strong>Aryyyyyyie</strong>, <strong>sou extrovertida e simpática</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript e Python</strong> 
 - 💬 Pergunte-me sobre: <strong>Música, filmes, séries, jogos e mangás</strong>
