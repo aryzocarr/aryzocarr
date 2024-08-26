@@ -2,7 +2,7 @@
 
 Eu sou <strong>Aryyyyyyie</strong>, <strong>sou extrovertida e simpática</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript e Python</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript </strong> 
 - 💬 Pergunte-me sobre: <strong>Música, filmes, séries, jogos e mangás</strong>
 - 📣 Nós podemos falar em: <strong>Português, inglês e mandarim</strong>
 
