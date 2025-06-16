@@ -2,8 +2,8 @@
 
 oiiii/你好/hiiii my name is <strong>Aryana</strong> 🐭
 
-- 🐸 I'm learning <strong>JavaScript </strong> 
-- 💬 Ask me about <strong>Music, movies, kpop and anime </strong>
+- 🐸 I'm learning <strong>C </strong> 
+- 💬 Ask me about <strong>Music, movies and kpop </strong>
 - 📣 We can talk in <strong>Portuguese, english and mandarin </strong>
 
 <div align="center">
